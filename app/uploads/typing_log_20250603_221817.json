@@ -1,0 +1,167 @@
+{
+  "session_start_time": 1748969286.758,
+  "session_end_time": 1748969297.894,
+  "duration_seconds": 11.136000156402588,
+  "keystrokes": [
+    {
+      "timestamp": 1748969286.758,
+      "pause_since_last": null,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969287.29,
+      "pause_since_last": 0.532,
+      "key": "H",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969289.301,
+      "pause_since_last": 2.011,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969289.855,
+      "pause_since_last": 0.554,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969290.028,
+      "pause_since_last": 0.173,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969290.217,
+      "pause_since_last": 0.189,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969291.104,
+      "pause_since_last": 0.887,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969291.456,
+      "pause_since_last": 0.352,
+      "key": "!",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969291.616,
+      "pause_since_last": 0.16,
+      "key": "!",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969292.446,
+      "pause_since_last": 0.83,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969292.832,
+      "pause_since_last": 0.386,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969293.017,
+      "pause_since_last": 0.185,
+      "key": "A",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969293.34,
+      "pause_since_last": 0.323,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969293.504,
+      "pause_since_last": 0.164,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969293.769,
+      "pause_since_last": 0.265,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969294.06,
+      "pause_since_last": 0.291,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969294.314,
+      "pause_since_last": 0.254,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969294.544,
+      "pause_since_last": 0.23,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969294.809,
+      "pause_since_last": 0.265,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969295.068,
+      "pause_since_last": 0.259,
+      "key": "f",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969295.291,
+      "pause_since_last": 0.223,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969295.544,
+      "pause_since_last": 0.253,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969295.839,
+      "pause_since_last": 0.295,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969296.342,
+      "pause_since_last": 0.503,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969296.536,
+      "pause_since_last": 0.194,
+      "key": "?",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "Hello!! Are you fine?",
+      "start_time": 1748969287.29,
+      "end_time": 1748969297.894,
+      "duration": 10.604000091552734,
+      "pause_before": null,
+      "backspaces": 0
+    }
+  ]
+}

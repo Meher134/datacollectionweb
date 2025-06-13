@@ -1,0 +1,101 @@
+{
+  "session_start_time": 1749699799.077,
+  "session_end_time": 1749699804.863,
+  "duration_seconds": 5.78600001335144,
+  "keystrokes": [
+    {
+      "timestamp": 1749699799.077,
+      "pause_since_last": null,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699799.308,
+      "pause_since_last": 0.231,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699799.64,
+      "pause_since_last": 0.332,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699799.983,
+      "pause_since_last": 0.343,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699800.239,
+      "pause_since_last": 0.256,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699800.744,
+      "pause_since_last": 0.505,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699801.394,
+      "pause_since_last": 0.65,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749699801.807,
+      "pause_since_last": 0.413,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699801.983,
+      "pause_since_last": 0.176,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699802.413,
+      "pause_since_last": 0.43,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699802.596,
+      "pause_since_last": 0.183,
+      "key": "j",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699802.933,
+      "pause_since_last": 0.337,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699803.411,
+      "pause_since_last": 0.478,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699803.803,
+      "pause_since_last": 0.392,
+      "key": "a",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "i am sanjana",
+      "start_time": 1749699799.077,
+      "end_time": 1749699804.863,
+      "duration": 5.78600001335144,
+      "pause_before": null,
+      "backspaces": 1
+    }
+  ]
+}

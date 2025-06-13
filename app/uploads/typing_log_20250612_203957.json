@@ -1,0 +1,227 @@
+{
+  "session_start_time": 1749740972.873,
+  "session_end_time": 1749740997.942,
+  "duration_seconds": 25.069000005722046,
+  "keystrokes": [
+    {
+      "timestamp": 1749740972.873,
+      "pause_since_last": null,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749740973.165,
+      "pause_since_last": 0.292,
+      "key": "I",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740973.432,
+      "pause_since_last": 0.267,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740973.602,
+      "pause_since_last": 0.17,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740973.704,
+      "pause_since_last": 0.102,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740973.916,
+      "pause_since_last": 0.212,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740974.108,
+      "pause_since_last": 0.192,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740974.393,
+      "pause_since_last": 0.285,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740974.519,
+      "pause_since_last": 0.126,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740974.699,
+      "pause_since_last": 0.18,
+      "key": "j",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740974.82,
+      "pause_since_last": 0.121,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740974.963,
+      "pause_since_last": 0.143,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740975.034,
+      "pause_since_last": 0.071,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740975.622,
+      "pause_since_last": 0.588,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740975.777,
+      "pause_since_last": 0.155,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740976.234,
+      "pause_since_last": 0.457,
+      "key": "w",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740976.381,
+      "pause_since_last": 0.147,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740977.652,
+      "pause_since_last": 1.271,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740977.91,
+      "pause_since_last": 0.258,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740978.098,
+      "pause_since_last": 0.188,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740978.36,
+      "pause_since_last": 0.262,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740978.58,
+      "pause_since_last": 0.22,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740978.735,
+      "pause_since_last": 0.155,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740978.972,
+      "pause_since_last": 0.237,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740979.111,
+      "pause_since_last": 0.139,
+      "key": "p",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740979.383,
+      "pause_since_last": 0.272,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740979.728,
+      "pause_since_last": 0.345,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749740979.927,
+      "pause_since_last": 0.199,
+      "key": "?",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740980.72,
+      "pause_since_last": 0.793,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749740980.894,
+      "pause_since_last": 0.174,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749740981.049,
+      "pause_since_last": 0.155,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749740981.806,
+      "pause_since_last": 0.757,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740982.043,
+      "pause_since_last": 0.237,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740982.376,
+      "pause_since_last": 0.333,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749740982.653,
+      "pause_since_last": 0.277,
+      "key": "?",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "I am sanjana..who are you?",
+      "start_time": 1749740973.165,
+      "end_time": 1749740997.942,
+      "duration": 24.776999950408936,
+      "pause_before": null,
+      "backspaces": 3
+    }
+  ]
+}

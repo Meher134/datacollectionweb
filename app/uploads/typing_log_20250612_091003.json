@@ -1,0 +1,125 @@
+{
+  "session_start_time": 1749699599.729,
+  "session_end_time": 1749699603.879,
+  "duration_seconds": 4.1499998569488525,
+  "keystrokes": [
+    {
+      "timestamp": 1749699599.729,
+      "pause_since_last": null,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699599.997,
+      "pause_since_last": 0.268,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699600.466,
+      "pause_since_last": 0.469,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699600.614,
+      "pause_since_last": 0.148,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699600.756,
+      "pause_since_last": 0.142,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699600.901,
+      "pause_since_last": 0.145,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699601.05,
+      "pause_since_last": 0.149,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699601.199,
+      "pause_since_last": 0.149,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699601.351,
+      "pause_since_last": 0.152,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699601.503,
+      "pause_since_last": 0.152,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699601.649,
+      "pause_since_last": 0.146,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699601.816,
+      "pause_since_last": 0.167,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699601.997,
+      "pause_since_last": 0.181,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699602.149,
+      "pause_since_last": 0.152,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699602.297,
+      "pause_since_last": 0.148,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699602.448,
+      "pause_since_last": 0.151,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699602.631,
+      "pause_since_last": 0.183,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699602.761,
+      "pause_since_last": 0.13,
+      "key": "o",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "helllllllllloooooo",
+      "start_time": 1749699599.729,
+      "end_time": 1749699603.879,
+      "duration": 4.1499998569488525,
+      "pause_before": null,
+      "backspaces": 0
+    }
+  ]
+}

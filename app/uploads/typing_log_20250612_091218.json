@@ -1,0 +1,47 @@
+{
+  "session_start_time": 1749699736.24,
+  "session_end_time": 1749699738.63,
+  "duration_seconds": 2.390000104904175,
+  "keystrokes": [
+    {
+      "timestamp": 1749699736.24,
+      "pause_since_last": null,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699736.576,
+      "pause_since_last": 0.336,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699736.738,
+      "pause_since_last": 0.162,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699736.9,
+      "pause_since_last": 0.162,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699737.095,
+      "pause_since_last": 0.195,
+      "key": "i",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "hiiii",
+      "start_time": 1749699736.24,
+      "end_time": 1749699738.63,
+      "duration": 2.390000104904175,
+      "pause_before": null,
+      "backspaces": 0
+    }
+  ]
+}

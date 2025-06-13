@@ -1,0 +1,329 @@
+{
+  "session_start_time": 1749740698.274,
+  "session_end_time": 1749740831.493,
+  "duration_seconds": 133.21900010108948,
+  "keystrokes": [
+    {
+      "timestamp": 1749740698.274,
+      "pause_since_last": null,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749740698.591,
+      "pause_since_last": 0.317,
+      "key": "H",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740698.849,
+      "pause_since_last": 0.258,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740699,
+      "pause_since_last": 0.151,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740699.122,
+      "pause_since_last": 0.122,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740699.277,
+      "pause_since_last": 0.155,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740699.388,
+      "pause_since_last": 0.111,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740700.145,
+      "pause_since_last": 0.757,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740700.378,
+      "pause_since_last": 0.233,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740700.511,
+      "pause_since_last": 0.133,
+      "key": "w",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740700.691,
+      "pause_since_last": 0.18,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740701.197,
+      "pause_since_last": 0.506,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749740701.805,
+      "pause_since_last": 0.608,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740702.128,
+      "pause_since_last": 0.323,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740702.323,
+      "pause_since_last": 0.195,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740702.445,
+      "pause_since_last": 0.122,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740702.854,
+      "pause_since_last": 0.409,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740703.019,
+      "pause_since_last": 0.165,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740703.191,
+      "pause_since_last": 0.172,
+      "key": "k",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740703.42,
+      "pause_since_last": 0.229,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740703.645,
+      "pause_since_last": 0.225,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740703.746,
+      "pause_since_last": 0.101,
+      "key": "w",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740703.909,
+      "pause_since_last": 0.163,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740704.2,
+      "pause_since_last": 0.291,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740704.436,
+      "pause_since_last": 0.236,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740704.641,
+      "pause_since_last": 0.205,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740704.734,
+      "pause_since_last": 0.093,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740704.916,
+      "pause_since_last": 0.182,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740705.074,
+      "pause_since_last": 0.158,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740705.392,
+      "pause_since_last": 0.318,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740705.395,
+      "pause_since_last": 0.003,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740705.814,
+      "pause_since_last": 0.419,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740706.053,
+      "pause_since_last": 0.239,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740706.681,
+      "pause_since_last": 0.628,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740706.987,
+      "pause_since_last": 0.306,
+      "key": "b",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740710.141,
+      "pause_since_last": 3.154,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749740711.447,
+      "pause_since_last": 1.306,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740711.557,
+      "pause_since_last": 0.11,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740711.844,
+      "pause_since_last": 0.287,
+      "key": "b",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740712.049,
+      "pause_since_last": 0.205,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740712.251,
+      "pause_since_last": 0.202,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740712.478,
+      "pause_since_last": 0.227,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740712.789,
+      "pause_since_last": 0.311,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740713.115,
+      "pause_since_last": 0.326,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740713.358,
+      "pause_since_last": 0.243,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740713.61,
+      "pause_since_last": 0.252,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740714.214,
+      "pause_since_last": 0.604,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740714.613,
+      "pause_since_last": 0.399,
+      "key": "k",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740714.78,
+      "pause_since_last": 0.167,
+      "key": "k",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740714.917,
+      "pause_since_last": 0.137,
+      "key": "k",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740715.059,
+      "pause_since_last": 0.142,
+      "key": "k",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749740716.864,
+      "pause_since_last": 1.805,
+      "key": ".",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "Hello gowtam i know you are dumb..but its okkkk.",
+      "start_time": 1749740698.591,
+      "end_time": 1749740719.527,
+      "duration": 20.935999870300293,
+      "pause_before": null,
+      "backspaces": 1
+    }
+  ]
+}

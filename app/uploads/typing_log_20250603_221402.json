@@ -1,0 +1,761 @@
+{
+  "session_start_time": 1748969000.412,
+  "session_end_time": 1748969042.545,
+  "duration_seconds": 42.13300013542175,
+  "keystrokes": [
+    {
+      "timestamp": 1748969000.412,
+      "pause_since_last": null,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969000.568,
+      "pause_since_last": 0.156,
+      "key": "M",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969000.954,
+      "pause_since_last": 0.386,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969001.347,
+      "pause_since_last": 0.393,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969001.8,
+      "pause_since_last": 0.453,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969002.252,
+      "pause_since_last": 0.452,
+      "key": "x",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969002.707,
+      "pause_since_last": 0.455,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969003.208,
+      "pause_since_last": 0.501,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969003.807,
+      "pause_since_last": 0.599,
+      "key": "=",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969004.384,
+      "pause_since_last": 0.577,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969004.578,
+      "pause_since_last": 0.194,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969004.688,
+      "pause_since_last": 0.11,
+      "key": "c",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969005.27,
+      "pause_since_last": 0.582,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969005.993,
+      "pause_since_last": 0.723,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969006.156,
+      "pause_since_last": 0.163,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969006.375,
+      "pause_since_last": 0.219,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969006.637,
+      "pause_since_last": 0.262,
+      "key": "'",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969006.774,
+      "pause_since_last": 0.137,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969006.975,
+      "pause_since_last": 0.201,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969007.193,
+      "pause_since_last": 0.218,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969007.288,
+      "pause_since_last": 0.095,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969007.426,
+      "pause_since_last": 0.138,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969007.539,
+      "pause_since_last": 0.113,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969007.691,
+      "pause_since_last": 0.152,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969007.955,
+      "pause_since_last": 0.264,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969008.059,
+      "pause_since_last": 0.104,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969008.233,
+      "pause_since_last": 0.174,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969009.011,
+      "pause_since_last": 0.778,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969009.162,
+      "pause_since_last": 0.151,
+      "key": "T",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969009.62,
+      "pause_since_last": 0.458,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969009.827,
+      "pause_since_last": 0.207,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969010.069,
+      "pause_since_last": 0.242,
+      "key": "p",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969010.225,
+      "pause_since_last": 0.156,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969010.367,
+      "pause_since_last": 0.142,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969010.566,
+      "pause_since_last": 0.199,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969011.064,
+      "pause_since_last": 0.498,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969011.72,
+      "pause_since_last": 0.656,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969011.931,
+      "pause_since_last": 0.211,
+      "key": "S",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969012.502,
+      "pause_since_last": 0.571,
+      "key": "c",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969012.681,
+      "pause_since_last": 0.179,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969013.076,
+      "pause_since_last": 0.395,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969013.235,
+      "pause_since_last": 0.159,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969013.489,
+      "pause_since_last": 0.254,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969013.778,
+      "pause_since_last": 0.289,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969014.052,
+      "pause_since_last": 0.274,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969014.279,
+      "pause_since_last": 0.227,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969014.458,
+      "pause_since_last": 0.179,
+      "key": "I",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969014.762,
+      "pause_since_last": 0.304,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969015.345,
+      "pause_since_last": 0.583,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969015.63,
+      "pause_since_last": 0.285,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969015.933,
+      "pause_since_last": 0.303,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969016.448,
+      "pause_since_last": 0.515,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969016.566,
+      "pause_since_last": 0.118,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969016.686,
+      "pause_since_last": 0.12,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969016.979,
+      "pause_since_last": 0.293,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969017.057,
+      "pause_since_last": 0.078,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969017.466,
+      "pause_since_last": 0.409,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969017.73,
+      "pause_since_last": 0.264,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969017.868,
+      "pause_since_last": 0.138,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969018.044,
+      "pause_since_last": 0.176,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969018.221,
+      "pause_since_last": 0.177,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969018.344,
+      "pause_since_last": 0.123,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969018.534,
+      "pause_since_last": 0.19,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969018.752,
+      "pause_since_last": 0.218,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969019.014,
+      "pause_since_last": 0.262,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969019.18,
+      "pause_since_last": 0.166,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969019.315,
+      "pause_since_last": 0.135,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969019.474,
+      "pause_since_last": 0.159,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969019.675,
+      "pause_since_last": 0.201,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969019.732,
+      "pause_since_last": 0.057,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969020.306,
+      "pause_since_last": 0.574,
+      "key": "1",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969020.493,
+      "pause_since_last": 0.187,
+      "key": "0",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969020.967,
+      "pause_since_last": 0.474,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969021.276,
+      "pause_since_last": 0.309,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969021.427,
+      "pause_since_last": 0.151,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969021.561,
+      "pause_since_last": 0.134,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969021.773,
+      "pause_since_last": 0.212,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969021.919,
+      "pause_since_last": 0.146,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969022.089,
+      "pause_since_last": 0.17,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969022.315,
+      "pause_since_last": 0.226,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969022.892,
+      "pause_since_last": 0.577,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969023.129,
+      "pause_since_last": 0.237,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969023.316,
+      "pause_since_last": 0.187,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969023.481,
+      "pause_since_last": 0.165,
+      "key": "I",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969023.738,
+      "pause_since_last": 0.257,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969023.867,
+      "pause_since_last": 0.129,
+      "key": "w",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969024.108,
+      "pause_since_last": 0.241,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969024.26,
+      "pause_since_last": 0.152,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969025.179,
+      "pause_since_last": 0.919,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969025.387,
+      "pause_since_last": 0.208,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969026.251,
+      "pause_since_last": 0.864,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969027.496,
+      "pause_since_last": 1.245,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969027.778,
+      "pause_since_last": 0.282,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969028.028,
+      "pause_since_last": 0.25,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969028.145,
+      "pause_since_last": 0.117,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969028.371,
+      "pause_since_last": 0.226,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969028.549,
+      "pause_since_last": 0.178,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969029.32,
+      "pause_since_last": 0.771,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969029.634,
+      "pause_since_last": 0.314,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969029.737,
+      "pause_since_last": 0.103,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969029.915,
+      "pause_since_last": 0.178,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969030.264,
+      "pause_since_last": 0.349,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969031.408,
+      "pause_since_last": 1.144,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969031.631,
+      "pause_since_last": 0.223,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969031.76,
+      "pause_since_last": 0.129,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969031.962,
+      "pause_since_last": 0.202,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969032.214,
+      "pause_since_last": 0.252,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969032.789,
+      "pause_since_last": 0.575,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969032.97,
+      "pause_since_last": 0.181,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969033.203,
+      "pause_since_last": 0.233,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969033.335,
+      "pause_since_last": 0.132,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969033.987,
+      "pause_since_last": 0.652,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969034.21,
+      "pause_since_last": 0.223,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969034.449,
+      "pause_since_last": 0.239,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969034.654,
+      "pause_since_last": 0.205,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969034.79,
+      "pause_since_last": 0.136,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969035.472,
+      "pause_since_last": 0.682,
+      "key": "b",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969035.748,
+      "pause_since_last": 0.276,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969035.982,
+      "pause_since_last": 0.234,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969036.237,
+      "pause_since_last": 0.255,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969036.412,
+      "pause_since_last": 0.175,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969037.156,
+      "pause_since_last": 0.744,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969037.403,
+      "pause_since_last": 0.247,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748969038.01,
+      "pause_since_last": 0.607,
+      "key": ".",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "My school's name is Timpany School. I studied there till my 10th grade. I was interested in studying biology.",
+      "start_time": 1748969000.568,
+      "end_time": 1748969039.712,
+      "duration": 39.14399981498718,
+      "pause_before": null,
+      "backspaces": 5
+    }
+  ]
+}

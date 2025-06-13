@@ -1,0 +1,2255 @@
+{
+  "session_start_time": 1748902899.791,
+  "session_end_time": 1748902995.52,
+  "duration_seconds": 95.72900009155273,
+  "keystrokes": [
+    {
+      "timestamp": 1748902899.791,
+      "pause_since_last": null,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902900.084,
+      "pause_since_last": 0.293,
+      "key": "H",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902900.263,
+      "pause_since_last": 0.179,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902900.385,
+      "pause_since_last": 0.122,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902900.604,
+      "pause_since_last": 0.219,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902901.279,
+      "pause_since_last": 0.675,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902901.456,
+      "pause_since_last": 0.177,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902901.616,
+      "pause_since_last": 0.16,
+      "key": "w",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902901.768,
+      "pause_since_last": 0.152,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902901.908,
+      "pause_since_last": 0.14,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902902.084,
+      "pause_since_last": 0.176,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902902.244,
+      "pause_since_last": 0.16,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902902.348,
+      "pause_since_last": 0.104,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902902.648,
+      "pause_since_last": 0.3,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902902.868,
+      "pause_since_last": 0.22,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902903.055,
+      "pause_since_last": 0.187,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902903.668,
+      "pause_since_last": 0.613,
+      "key": ",",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902903.884,
+      "pause_since_last": 0.216,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902904.068,
+      "pause_since_last": 0.184,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902904.164,
+      "pause_since_last": 0.096,
+      "key": "I",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902904.384,
+      "pause_since_last": 0.22,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902904.548,
+      "pause_since_last": 0.164,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902904.66,
+      "pause_since_last": 0.112,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902904.852,
+      "pause_since_last": 0.192,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902905.376,
+      "pause_since_last": 0.524,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902905.5,
+      "pause_since_last": 0.124,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902905.648,
+      "pause_since_last": 0.148,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902905.775,
+      "pause_since_last": 0.127,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902905.904,
+      "pause_since_last": 0.129,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902906.736,
+      "pause_since_last": 0.832,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902906.988,
+      "pause_since_last": 0.252,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902907.209,
+      "pause_since_last": 0.221,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902907.476,
+      "pause_since_last": 0.267,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902907.644,
+      "pause_since_last": 0.168,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902908.088,
+      "pause_since_last": 0.444,
+      "key": "p",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902908.936,
+      "pause_since_last": 0.848,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902909.061,
+      "pause_since_last": 0.125,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902909.428,
+      "pause_since_last": 0.367,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902909.64,
+      "pause_since_last": 0.212,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902909.828,
+      "pause_since_last": 0.188,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902910.027,
+      "pause_since_last": 0.199,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902910.184,
+      "pause_since_last": 0.157,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902910.309,
+      "pause_since_last": 0.125,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902910.543,
+      "pause_since_last": 0.234,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902910.693,
+      "pause_since_last": 0.15,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902911.177,
+      "pause_since_last": 0.484,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902911.3,
+      "pause_since_last": 0.123,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902911.511,
+      "pause_since_last": 0.211,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902911.693,
+      "pause_since_last": 0.182,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902911.825,
+      "pause_since_last": 0.132,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902911.992,
+      "pause_since_last": 0.167,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902912.412,
+      "pause_since_last": 0.42,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902912.592,
+      "pause_since_last": 0.18,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902912.776,
+      "pause_since_last": 0.184,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902912.917,
+      "pause_since_last": 0.141,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902913.224,
+      "pause_since_last": 0.307,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902913.528,
+      "pause_since_last": 0.304,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902913.812,
+      "pause_since_last": 0.284,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902913.916,
+      "pause_since_last": 0.104,
+      "key": "I",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902914.168,
+      "pause_since_last": 0.252,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902914.512,
+      "pause_since_last": 0.344,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902915.084,
+      "pause_since_last": 0.572,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902915.276,
+      "pause_since_last": 0.192,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902915.432,
+      "pause_since_last": 0.156,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902915.629,
+      "pause_since_last": 0.197,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902915.896,
+      "pause_since_last": 0.267,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902916.12,
+      "pause_since_last": 0.224,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902916.385,
+      "pause_since_last": 0.265,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902916.496,
+      "pause_since_last": 0.111,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902916.652,
+      "pause_since_last": 0.156,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902917.608,
+      "pause_since_last": 0.956,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902917.872,
+      "pause_since_last": 0.264,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902918.086,
+      "pause_since_last": 0.214,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902918.241,
+      "pause_since_last": 0.155,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902918.35,
+      "pause_since_last": 0.109,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902918.605,
+      "pause_since_last": 0.255,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902919.07,
+      "pause_since_last": 0.465,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902919.241,
+      "pause_since_last": 0.171,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902920.964,
+      "pause_since_last": 1.723,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902921.18,
+      "pause_since_last": 0.216,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902921.321,
+      "pause_since_last": 0.141,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902921.401,
+      "pause_since_last": 0.08,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902921.637,
+      "pause_since_last": 0.236,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902921.709,
+      "pause_since_last": 0.072,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902921.93,
+      "pause_since_last": 0.221,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902922.133,
+      "pause_since_last": 0.203,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902922.231,
+      "pause_since_last": 0.098,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902922.422,
+      "pause_since_last": 0.191,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902922.589,
+      "pause_since_last": 0.167,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902922.729,
+      "pause_since_last": 0.14,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902923.445,
+      "pause_since_last": 0.716,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902923.616,
+      "pause_since_last": 0.171,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902923.974,
+      "pause_since_last": 0.358,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902924.14,
+      "pause_since_last": 0.166,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902924.529,
+      "pause_since_last": 0.389,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902924.758,
+      "pause_since_last": 0.229,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902924.968,
+      "pause_since_last": 0.21,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902925.17,
+      "pause_since_last": 0.202,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902925.72,
+      "pause_since_last": 0.55,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902926.037,
+      "pause_since_last": 0.317,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902926.265,
+      "pause_since_last": 0.228,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902926.449,
+      "pause_since_last": 0.184,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902926.578,
+      "pause_since_last": 0.129,
+      "key": "Y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902926.793,
+      "pause_since_last": 0.215,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902926.997,
+      "pause_since_last": 0.204,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902927.253,
+      "pause_since_last": 0.256,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902927.409,
+      "pause_since_last": 0.156,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902927.594,
+      "pause_since_last": 0.185,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902927.781,
+      "pause_since_last": 0.187,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902927.945,
+      "pause_since_last": 0.164,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902928.354,
+      "pause_since_last": 0.409,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902928.593,
+      "pause_since_last": 0.239,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902928.749,
+      "pause_since_last": 0.156,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902928.845,
+      "pause_since_last": 0.096,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902929.058,
+      "pause_since_last": 0.213,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902929.241,
+      "pause_since_last": 0.183,
+      "key": "f",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902929.378,
+      "pause_since_last": 0.137,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902929.574,
+      "pause_since_last": 0.196,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902929.825,
+      "pause_since_last": 0.251,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902930.012,
+      "pause_since_last": 0.187,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902930.185,
+      "pause_since_last": 0.173,
+      "key": "f",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902930.358,
+      "pause_since_last": 0.173,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902930.474,
+      "pause_since_last": 0.116,
+      "key": "v",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902931.902,
+      "pause_since_last": 1.428,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902932.227,
+      "pause_since_last": 0.325,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902933.229,
+      "pause_since_last": 1.002,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902933.425,
+      "pause_since_last": 0.196,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902933.578,
+      "pause_since_last": 0.153,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902933.825,
+      "pause_since_last": 0.247,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902933.934,
+      "pause_since_last": 0.109,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902934.206,
+      "pause_since_last": 0.272,
+      "key": "p",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902934.77,
+      "pause_since_last": 0.564,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902935.214,
+      "pause_since_last": 0.444,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902935.294,
+      "pause_since_last": 0.08,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902935.651,
+      "pause_since_last": 0.357,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902935.886,
+      "pause_since_last": 0.235,
+      "key": "p",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902936.078,
+      "pause_since_last": 0.192,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902936.218,
+      "pause_since_last": 0.14,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902936.347,
+      "pause_since_last": 0.129,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902936.542,
+      "pause_since_last": 0.195,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902936.738,
+      "pause_since_last": 0.196,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902936.929,
+      "pause_since_last": 0.191,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902937.083,
+      "pause_since_last": 0.154,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902937.2,
+      "pause_since_last": 0.117,
+      "key": "v",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902937.397,
+      "pause_since_last": 0.197,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902937.529,
+      "pause_since_last": 0.132,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902938.942,
+      "pause_since_last": 1.413,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902939.13,
+      "pause_since_last": 0.188,
+      "key": "v",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902939.281,
+      "pause_since_last": 0.151,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902939.454,
+      "pause_since_last": 0.173,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902939.567,
+      "pause_since_last": 0.113,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902939.79,
+      "pause_since_last": 0.223,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902939.878,
+      "pause_since_last": 0.088,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902940.113,
+      "pause_since_last": 0.235,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902940.529,
+      "pause_since_last": 0.416,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902940.653,
+      "pause_since_last": 0.124,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902941.161,
+      "pause_since_last": 0.508,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902941.443,
+      "pause_since_last": 0.282,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902942.59,
+      "pause_since_last": 1.147,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902942.743,
+      "pause_since_last": 0.153,
+      "key": "I",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902943.01,
+      "pause_since_last": 0.267,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902943.219,
+      "pause_since_last": 0.209,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902943.351,
+      "pause_since_last": 0.132,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902943.574,
+      "pause_since_last": 0.223,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902943.99,
+      "pause_since_last": 0.416,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902944.198,
+      "pause_since_last": 0.208,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902944.391,
+      "pause_since_last": 0.193,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902944.49,
+      "pause_since_last": 0.099,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902944.65,
+      "pause_since_last": 0.16,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902944.901,
+      "pause_since_last": 0.251,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902945.118,
+      "pause_since_last": 0.217,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902945.278,
+      "pause_since_last": 0.16,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902945.442,
+      "pause_since_last": 0.164,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902945.591,
+      "pause_since_last": 0.149,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902945.705,
+      "pause_since_last": 0.114,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902945.903,
+      "pause_since_last": 0.198,
+      "key": "k",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902946.09,
+      "pause_since_last": 0.187,
+      "key": "f",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902946.262,
+      "pause_since_last": 0.172,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902946.471,
+      "pause_since_last": 0.209,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902946.698,
+      "pause_since_last": 0.227,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902947.298,
+      "pause_since_last": 0.6,
+      "key": "f",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902947.41,
+      "pause_since_last": 0.112,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902947.713,
+      "pause_since_last": 0.303,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902947.851,
+      "pause_since_last": 0.138,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902948.21,
+      "pause_since_last": 0.359,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902948.418,
+      "pause_since_last": 0.208,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902948.623,
+      "pause_since_last": 0.205,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902948.798,
+      "pause_since_last": 0.175,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902948.935,
+      "pause_since_last": 0.137,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902949.079,
+      "pause_since_last": 0.144,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902949.314,
+      "pause_since_last": 0.235,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902949.534,
+      "pause_since_last": 0.22,
+      "key": "b",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902949.772,
+      "pause_since_last": 0.238,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902949.907,
+      "pause_since_last": 0.135,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902950.119,
+      "pause_since_last": 0.212,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902950.303,
+      "pause_since_last": 0.184,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902950.488,
+      "pause_since_last": 0.185,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902950.743,
+      "pause_since_last": 0.255,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902950.922,
+      "pause_since_last": 0.179,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902951.09,
+      "pause_since_last": 0.168,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902951.274,
+      "pause_since_last": 0.184,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902951.466,
+      "pause_since_last": 0.192,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902951.639,
+      "pause_since_last": 0.173,
+      "key": "f",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902951.811,
+      "pause_since_last": 0.172,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902952.042,
+      "pause_since_last": 0.231,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902952.423,
+      "pause_since_last": 0.381,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902952.923,
+      "pause_since_last": 0.5,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902953.114,
+      "pause_since_last": 0.191,
+      "key": "I",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902953.355,
+      "pause_since_last": 0.241,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902953.567,
+      "pause_since_last": 0.212,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902954.339,
+      "pause_since_last": 0.772,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902954.543,
+      "pause_since_last": 0.204,
+      "key": "p",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902954.67,
+      "pause_since_last": 0.127,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902954.842,
+      "pause_since_last": 0.172,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902955.176,
+      "pause_since_last": 0.334,
+      "key": "w",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902955.411,
+      "pause_since_last": 0.235,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902955.675,
+      "pause_since_last": 0.264,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902955.894,
+      "pause_since_last": 0.219,
+      "key": "c",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902956.096,
+      "pause_since_last": 0.202,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902956.179,
+      "pause_since_last": 0.083,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902956.423,
+      "pause_since_last": 0.244,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902956.97,
+      "pause_since_last": 0.547,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902957.126,
+      "pause_since_last": 0.156,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902957.307,
+      "pause_since_last": 0.181,
+      "key": "k",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902957.468,
+      "pause_since_last": 0.161,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902957.549,
+      "pause_since_last": 0.081,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902957.736,
+      "pause_since_last": 0.187,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902957.903,
+      "pause_since_last": 0.167,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902958.104,
+      "pause_since_last": 0.201,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902958.24,
+      "pause_since_last": 0.136,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902958.367,
+      "pause_since_last": 0.127,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902959.135,
+      "pause_since_last": 0.768,
+      "key": "b",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902959.531,
+      "pause_since_last": 0.396,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902959.763,
+      "pause_since_last": 0.232,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902959.935,
+      "pause_since_last": 0.172,
+      "key": "p",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902960.195,
+      "pause_since_last": 0.26,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902960.447,
+      "pause_since_last": 0.252,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902960.611,
+      "pause_since_last": 0.164,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902960.784,
+      "pause_since_last": 0.173,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902960.887,
+      "pause_since_last": 0.103,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902961.014,
+      "pause_since_last": 0.127,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902961.244,
+      "pause_since_last": 0.23,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902961.459,
+      "pause_since_last": 0.215,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902961.576,
+      "pause_since_last": 0.117,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902962.288,
+      "pause_since_last": 0.712,
+      "key": "j",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902962.475,
+      "pause_since_last": 0.187,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902962.74,
+      "pause_since_last": 0.265,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902963.284,
+      "pause_since_last": 0.544,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902963.556,
+      "pause_since_last": 0.272,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902964.463,
+      "pause_since_last": 0.907,
+      "key": "f",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902964.608,
+      "pause_since_last": 0.145,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902965.015,
+      "pause_since_last": 0.407,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902965.267,
+      "pause_since_last": 0.252,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902965.488,
+      "pause_since_last": 0.221,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902965.708,
+      "pause_since_last": 0.22,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902965.856,
+      "pause_since_last": 0.148,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902966.012,
+      "pause_since_last": 0.156,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902966.291,
+      "pause_since_last": 0.279,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902966.436,
+      "pause_since_last": 0.145,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902966.572,
+      "pause_since_last": 0.136,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902966.692,
+      "pause_since_last": 0.12,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902966.971,
+      "pause_since_last": 0.279,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902967.143,
+      "pause_since_last": 0.172,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902967.536,
+      "pause_since_last": 0.393,
+      "key": "c",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902967.748,
+      "pause_since_last": 0.212,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902967.959,
+      "pause_since_last": 0.211,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902968.279,
+      "pause_since_last": 0.32,
+      "key": "z",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902968.431,
+      "pause_since_last": 0.152,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902968.649,
+      "pause_since_last": 0.218,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902969.12,
+      "pause_since_last": 0.471,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902969.341,
+      "pause_since_last": 0.221,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902969.453,
+      "pause_since_last": 0.112,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902969.58,
+      "pause_since_last": 0.127,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902970.04,
+      "pause_since_last": 0.46,
+      "key": "w",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902970.312,
+      "pause_since_last": 0.272,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902970.468,
+      "pause_since_last": 0.156,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902970.583,
+      "pause_since_last": 0.115,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902970.771,
+      "pause_since_last": 0.188,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902970.964,
+      "pause_since_last": 0.193,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902971.173,
+      "pause_since_last": 0.209,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902971.339,
+      "pause_since_last": 0.166,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902971.574,
+      "pause_since_last": 0.235,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902971.732,
+      "pause_since_last": 0.158,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902972.008,
+      "pause_since_last": 0.276,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902972.14,
+      "pause_since_last": 0.132,
+      "key": "f",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902972.316,
+      "pause_since_last": 0.176,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902972.744,
+      "pause_since_last": 0.428,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902972.92,
+      "pause_since_last": 0.176,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902973.105,
+      "pause_since_last": 0.185,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902973.259,
+      "pause_since_last": 0.154,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902973.415,
+      "pause_since_last": 0.156,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902973.576,
+      "pause_since_last": 0.161,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902974.456,
+      "pause_since_last": 0.88,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902974.628,
+      "pause_since_last": 0.172,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902974.756,
+      "pause_since_last": 0.128,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902975.021,
+      "pause_since_last": 0.265,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902975.138,
+      "pause_since_last": 0.117,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902975.344,
+      "pause_since_last": 0.206,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902975.557,
+      "pause_since_last": 0.213,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902975.641,
+      "pause_since_last": 0.084,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902975.84,
+      "pause_since_last": 0.199,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902976,
+      "pause_since_last": 0.16,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902976.172,
+      "pause_since_last": 0.172,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902976.386,
+      "pause_since_last": 0.214,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902976.592,
+      "pause_since_last": 0.206,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902976.7,
+      "pause_since_last": 0.108,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902976.81,
+      "pause_since_last": 0.11,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902976.912,
+      "pause_since_last": 0.102,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902977.132,
+      "pause_since_last": 0.22,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902977.329,
+      "pause_since_last": 0.197,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902977.477,
+      "pause_since_last": 0.148,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902977.54,
+      "pause_since_last": 0.063,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902977.781,
+      "pause_since_last": 0.241,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902978.14,
+      "pause_since_last": 0.359,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902978.308,
+      "pause_since_last": 0.168,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902978.499,
+      "pause_since_last": 0.191,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902978.625,
+      "pause_since_last": 0.126,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902978.705,
+      "pause_since_last": 0.08,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902978.877,
+      "pause_since_last": 0.172,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902979.208,
+      "pause_since_last": 0.331,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902979.31,
+      "pause_since_last": 0.102,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902979.453,
+      "pause_since_last": 0.143,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902979.584,
+      "pause_since_last": 0.131,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902979.788,
+      "pause_since_last": 0.204,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902979.925,
+      "pause_since_last": 0.137,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902980.072,
+      "pause_since_last": 0.147,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902980.225,
+      "pause_since_last": 0.153,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902980.637,
+      "pause_since_last": 0.412,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902980.865,
+      "pause_since_last": 0.228,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902981.281,
+      "pause_since_last": 0.416,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902981.484,
+      "pause_since_last": 0.203,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902981.677,
+      "pause_since_last": 0.193,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902981.793,
+      "pause_since_last": 0.116,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902982.02,
+      "pause_since_last": 0.227,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902982.153,
+      "pause_since_last": 0.133,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902982.461,
+      "pause_since_last": 0.308,
+      "key": "p",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902982.633,
+      "pause_since_last": 0.172,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902982.785,
+      "pause_since_last": 0.152,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902982.989,
+      "pause_since_last": 0.204,
+      "key": "c",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902983.173,
+      "pause_since_last": 0.184,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902983.393,
+      "pause_since_last": 0.22,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902983.557,
+      "pause_since_last": 0.164,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902983.845,
+      "pause_since_last": 0.288,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902984.12,
+      "pause_since_last": 0.275,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748902984.516,
+      "pause_since_last": 0.396,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.017,
+      "pause_since_last": 0.501,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.05,
+      "pause_since_last": 0.033,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.083,
+      "pause_since_last": 0.033,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.125,
+      "pause_since_last": 0.042,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.149,
+      "pause_since_last": 0.024,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.182,
+      "pause_since_last": 0.033,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.216,
+      "pause_since_last": 0.034,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.248,
+      "pause_since_last": 0.032,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.279,
+      "pause_since_last": 0.031,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.314,
+      "pause_since_last": 0.035,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.347,
+      "pause_since_last": 0.033,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.382,
+      "pause_since_last": 0.035,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.408,
+      "pause_since_last": 0.026,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.442,
+      "pause_since_last": 0.034,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.479,
+      "pause_since_last": 0.037,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.514,
+      "pause_since_last": 0.035,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.547,
+      "pause_since_last": 0.033,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.58,
+      "pause_since_last": 0.033,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.613,
+      "pause_since_last": 0.033,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.643,
+      "pause_since_last": 0.03,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.676,
+      "pause_since_last": 0.033,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.718,
+      "pause_since_last": 0.042,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.749,
+      "pause_since_last": 0.031,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.783,
+      "pause_since_last": 0.034,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.81,
+      "pause_since_last": 0.027,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.843,
+      "pause_since_last": 0.033,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902985.876,
+      "pause_since_last": 0.033,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748902987.149,
+      "pause_since_last": 1.273,
+      "key": "Enter",
+      "is_special": true
+    }
+  ],
+  "words": [
+    {
+      "word": "Hey how are you, I am good. hope you are doing good. I am really delighted to meet you. You are one of my favourite people i have ever met. I am really thankful for you to be in my life. I hope we can make this bumpy ride a joyful one and a crazy one with lots of things to learn and understand throughtout the process. ",
+      "start_time": 1748902900.084,
+      "end_time": 1748902987.149,
+      "duration": 87.06499981880188,
+      "pause_before": null,
+      "backspaces": 9
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="en">
+<head><title>Analysis Report</title></head>
+<body>
+  <h1>Analysis Report</h1>
+  <pre>{{ report | tojson(indent=2) }}</pre>
+  <a href="{{ url_for('main.index') }}">Analyze Another Essay</a>
+</body>
+</html>

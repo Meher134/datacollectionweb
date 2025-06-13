@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en">
+<head><title>Essay Analyzer</title></head>
+<body>
+  <h1>Submit Your Essay</h1>
+  <form method="POST">
+    {{ form.hidden_tag() }}
+    {{ form.essay(rows=15, cols=80) }}<br><br>
+    {{ form.submit() }}
+  </form>
+</body>
+</html>

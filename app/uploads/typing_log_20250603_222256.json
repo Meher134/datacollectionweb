@@ -1,0 +1,29 @@
+{
+  "session_start_time": 1748969575.187,
+  "session_end_time": 1748969576.83,
+  "duration_seconds": 1.6429998874664307,
+  "keystrokes": [
+    {
+      "timestamp": 1748969575.187,
+      "pause_since_last": null,
+      "key": "Meta",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748969575.406,
+      "pause_since_last": 0.219,
+      "key": "v",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "v",
+      "start_time": 1748969575.406,
+      "end_time": 1748969576.83,
+      "duration": 1.4240000247955322,
+      "pause_before": null,
+      "backspaces": 0
+    }
+  ]
+}

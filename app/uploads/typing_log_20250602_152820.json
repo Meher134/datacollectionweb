@@ -1,0 +1,245 @@
+{
+  "session_start_time": 1748903288.148,
+  "session_end_time": 1748903300.4,
+  "duration_seconds": 12.252000093460083,
+  "keystrokes": [
+    {
+      "timestamp": 1748903288.148,
+      "pause_since_last": null,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748903288.205,
+      "pause_since_last": 0.057,
+      "key": "H",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903288.313,
+      "pause_since_last": 0.108,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903288.448,
+      "pause_since_last": 0.135,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903288.645,
+      "pause_since_last": 0.197,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903288.985,
+      "pause_since_last": 0.34,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903289.268,
+      "pause_since_last": 0.283,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903289.431,
+      "pause_since_last": 0.163,
+      "key": "w",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903289.6,
+      "pause_since_last": 0.169,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903290.085,
+      "pause_since_last": 0.485,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903290.94,
+      "pause_since_last": 0.855,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903291.148,
+      "pause_since_last": 0.208,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903291.3,
+      "pause_since_last": 0.152,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903291.761,
+      "pause_since_last": 0.461,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903292.005,
+      "pause_since_last": 0.244,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903292.229,
+      "pause_since_last": 0.224,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903292.429,
+      "pause_since_last": 0.2,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903293.089,
+      "pause_since_last": 0.66,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748903293.533,
+      "pause_since_last": 0.444,
+      "key": ".",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903293.801,
+      "pause_since_last": 0.268,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903294.158,
+      "pause_since_last": 0.357,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748903294.322,
+      "pause_since_last": 0.164,
+      "key": "I",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903294.549,
+      "pause_since_last": 0.227,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903294.747,
+      "pause_since_last": 0.198,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903294.841,
+      "pause_since_last": 0.094,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903295.062,
+      "pause_since_last": 0.221,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903295.441,
+      "pause_since_last": 0.379,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903295.584,
+      "pause_since_last": 0.143,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903295.841,
+      "pause_since_last": 0.257,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903296.045,
+      "pause_since_last": 0.204,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903296.241,
+      "pause_since_last": 0.196,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903296.437,
+      "pause_since_last": 0.196,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903297.13,
+      "pause_since_last": 0.693,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903297.277,
+      "pause_since_last": 0.147,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903297.509,
+      "pause_since_last": 0.232,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903298.078,
+      "pause_since_last": 0.569,
+      "key": "d",
+      "is_special": false
+    },
+    {
+      "timestamp": 1748903298.477,
+      "pause_since_last": 0.399,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1748903298.673,
+      "pause_since_last": 0.196,
+      "key": "!",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "Hey how are you. I am doing good!",
+      "start_time": 1748903288.205,
+      "end_time": 1748903300.4,
+      "duration": 12.195000171661377,
+      "pause_before": null,
+      "backspaces": 1
+    }
+  ]
+}

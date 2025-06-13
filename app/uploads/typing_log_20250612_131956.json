@@ -1,0 +1,155 @@
+{
+  "session_start_time": 1749714589.715,
+  "session_end_time": 1749714596.48,
+  "duration_seconds": 6.765000104904175,
+  "keystrokes": [
+    {
+      "timestamp": 1749714589.715,
+      "pause_since_last": null,
+      "key": "Control",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749714590.165,
+      "pause_since_last": 0.45,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749714590.324,
+      "pause_since_last": 0.159,
+      "key": "I",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714590.616,
+      "pause_since_last": 0.292,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714591.055,
+      "pause_since_last": 0.439,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714591.175,
+      "pause_since_last": 0.12,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714591.4,
+      "pause_since_last": 0.225,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714591.619,
+      "pause_since_last": 0.219,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714591.75,
+      "pause_since_last": 0.131,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714591.989,
+      "pause_since_last": 0.239,
+      "key": "c",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714592.116,
+      "pause_since_last": 0.127,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714592.283,
+      "pause_since_last": 0.167,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714592.505,
+      "pause_since_last": 0.222,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714592.724,
+      "pause_since_last": 0.219,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714592.963,
+      "pause_since_last": 0.239,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714593.127,
+      "pause_since_last": 0.164,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714593.233,
+      "pause_since_last": 0.106,
+      "key": "r",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714593.413,
+      "pause_since_last": 0.18,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714593.666,
+      "pause_since_last": 0.253,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749714593.94,
+      "pause_since_last": 0.274,
+      "key": "!",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714594.112,
+      "pause_since_last": 0.172,
+      "key": "!",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714594.27,
+      "pause_since_last": 0.158,
+      "key": "!",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749714594.465,
+      "pause_since_last": 0.195,
+      "key": "!",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "I am a cool girl!!!!",
+      "start_time": 1749714590.324,
+      "end_time": 1749714596.48,
+      "duration": 6.156000137329102,
+      "pause_before": null,
+      "backspaces": 0
+    }
+  ]
+}

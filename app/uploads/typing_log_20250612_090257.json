@@ -1,0 +1,341 @@
+{
+  "session_start_time": 1749699151.454,
+  "session_end_time": 1749699177.563,
+  "duration_seconds": 26.108999967575073,
+  "keystrokes": [
+    {
+      "timestamp": 1749699151.454,
+      "pause_since_last": null,
+      "key": "Shift",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749699151.702,
+      "pause_since_last": 0.248,
+      "key": "H",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699152.023,
+      "pause_since_last": 0.321,
+      "key": "w",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699152.635,
+      "pause_since_last": 0.612,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749699152.832,
+      "pause_since_last": 0.197,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699152.933,
+      "pause_since_last": 0.101,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699153.103,
+      "pause_since_last": 0.17,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699153.266,
+      "pause_since_last": 0.163,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699153.837,
+      "pause_since_last": 0.571,
+      "key": ",",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699154.009,
+      "pause_since_last": 0.172,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699154.311,
+      "pause_since_last": 0.302,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699154.534,
+      "pause_since_last": 0.223,
+      "key": "h",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699154.753,
+      "pause_since_last": 0.219,
+      "key": "u",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699154.925,
+      "pause_since_last": 0.172,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699156.424,
+      "pause_since_last": 1.499,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749699156.633,
+      "pause_since_last": 0.209,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749699157.006,
+      "pause_since_last": 0.373,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699157.221,
+      "pause_since_last": 0.215,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699157.308,
+      "pause_since_last": 0.087,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699157.54,
+      "pause_since_last": 0.232,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699157.661,
+      "pause_since_last": 0.121,
+      "key": "s",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699157.922,
+      "pause_since_last": 0.261,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699158.1,
+      "pause_since_last": 0.178,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699158.219,
+      "pause_since_last": 0.119,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699158.387,
+      "pause_since_last": 0.168,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699159.043,
+      "pause_since_last": 0.656,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699159.305,
+      "pause_since_last": 0.262,
+      "key": "x",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699159.522,
+      "pause_since_last": 0.217,
+      "key": "a",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699159.64,
+      "pause_since_last": 0.118,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699159.851,
+      "pause_since_last": 0.211,
+      "key": "p",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699160.052,
+      "pause_since_last": 0.201,
+      "key": "l",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699160.234,
+      "pause_since_last": 0.182,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699160.34,
+      "pause_since_last": 0.106,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699160.607,
+      "pause_since_last": 0.267,
+      "key": "o",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699160.75,
+      "pause_since_last": 0.143,
+      "key": "f",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699160.897,
+      "pause_since_last": 0.147,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699161.147,
+      "pause_since_last": 0.25,
+      "key": "m",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699161.345,
+      "pause_since_last": 0.198,
+      "key": "e",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699161.492,
+      "pause_since_last": 0.147,
+      "key": " ",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699170.755,
+      "pause_since_last": 9.263,
+      "key": "t",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699171.22,
+      "pause_since_last": 0.465,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699171.376,
+      "pause_since_last": 0.156,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699171.63,
+      "pause_since_last": 0.254,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699171.804,
+      "pause_since_last": 0.174,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699172.506,
+      "pause_since_last": 0.702,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749699172.671,
+      "pause_since_last": 0.165,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749699172.833,
+      "pause_since_last": 0.162,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749699173.381,
+      "pause_since_last": 0.548,
+      "key": "Backspace",
+      "is_special": true
+    },
+    {
+      "timestamp": 1749699174.661,
+      "pause_since_last": 1.28,
+      "key": "y",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699174.887,
+      "pause_since_last": 0.226,
+      "key": "p",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699175.119,
+      "pause_since_last": 0.232,
+      "key": "i",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699175.399,
+      "pause_since_last": 0.28,
+      "key": "n",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699175.57,
+      "pause_since_last": 0.171,
+      "key": "g",
+      "is_special": false
+    },
+    {
+      "timestamp": 1749699176.411,
+      "pause_since_last": 0.841,
+      "key": ".",
+      "is_special": false
+    }
+  ],
+  "words": [
+    {
+      "word": "Hello, this is an example of me typing.",
+      "start_time": 1749699151.702,
+      "end_time": 1749699177.563,
+      "duration": 25.861000061035156,
+      "pause_before": null,
+      "backspaces": 7
+    }
+  ]
+}
