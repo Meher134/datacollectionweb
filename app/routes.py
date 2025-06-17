@@ -57,7 +57,13 @@ def submit_typing_data():
             "stylometry_report": style_report,
             
         }
-                # Access the MongoDB collection
+        # Save the full report
+        # Append report to original typing data
+        data["report"] = report
+        with open(log_filepath, "w") as f:
+            json.dump(data, f, indent=2)
+        
+        # Access the MongoDB collection
         db = current_app.config['MONGO_DB']
         reports_collection = db["reports"]
 
