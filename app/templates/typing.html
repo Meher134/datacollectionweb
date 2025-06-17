@@ -61,13 +61,17 @@
                 is_special: isSpecial
             });
 
-            if (!isSpecial) {
-                currentWord += key;
-                if (!wordStart) wordStart = now / 1000;
+            if(!isSpecial) {
+                if (key === " "){
+                    finalizeWord(now / 1000);
+                } else {
+                    currentWord += key;
+                    if (!wordStart) wordStart = now / 1000;
+                }
             } else if (key === "Backspace") {
                 currentWord = currentWord.slice(0, -1);
                 backspaces += 1;
-            } else if (key === " " || key === "Enter") {
+            } else if (key === "Enter" || key === "ESC") {
                 finalizeWord(now / 1000);
             }
         });
@@ -90,6 +94,10 @@
         }
 
         document.getElementById("submitBtn").addEventListener("click", async () => {
+            const submitBtn = document.getElementById("submitBtn");
+            submitBtn.disabled = true; // ✅ Prevent multiple clicks
+            submitBtn.textContent = "Submitting...";
+
             finalizeWord(Date.now() / 1000);  // Final word
             const sessionEnd = Date.now() / 1000;
 
@@ -110,8 +118,17 @@
             });
 
             const result = await response.json();
-            document.getElementById("result").textContent = JSON.stringify(result, null, 2);
+            
+            if (result.status === "success") {
+                alert("Thanks for submitting!");
+                window.location.href = "/";
+            } else {
+                alert("Error: " + result.message);
+                submitBtn.disabled = false;
+                submitBtn.textContent = "Submit";
+            }
         });
     </script>
 </body>
 </html>
+
